@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/scrape",
+      "src": "/api/scrape",
       "dest": "api/scrape.js"
     }
   ]
