@@ -1,0 +1,16 @@
+{
+    "name": "charity-navigator-scraper",
+    "version": "1.0.0",
+    "description": "Scrapes Charity Navigator for organization data and enriches with Hunter.io API",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "axios": "^1.4.0",
+      "puppeteer-core": "^21.3.8",
+      "chrome-aws-lambda": "^10.1.0"
+    }
+  }
+  
